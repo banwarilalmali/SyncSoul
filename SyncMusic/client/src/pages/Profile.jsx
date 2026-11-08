@@ -1,0 +1,1 @@
+export default function Profile() { /* TODO: Add editable display name, avatar and bio. */ return <main className="p-8"><h1>Profile</h1></main>; }

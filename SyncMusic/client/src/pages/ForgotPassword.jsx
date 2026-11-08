@@ -1,0 +1,1 @@
+export default function ForgotPassword() { /* TODO: Add forgot/reset password flow. */ return <main className="p-8"><h1>Reset password</h1></main>; }

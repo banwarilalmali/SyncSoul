@@ -1,0 +1,10 @@
+# TODO: Add any project-specific generated artifacts when implementation expands.
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+coverage/
+.DS_Store
+*.log
+uploads/

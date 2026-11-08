@@ -1,0 +1,1 @@
+export default function Landing() { /* TODO: Build the public landing page. */ return <main className="p-8"><h1>SyncMusic</h1><p>Listen together. Chat together.</p></main>; }

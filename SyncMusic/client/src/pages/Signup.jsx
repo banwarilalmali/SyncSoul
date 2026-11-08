@@ -1,0 +1,1 @@
+export default function Signup() { /* TODO: Add registration form and profile setup. */ return <main className="p-8"><h1>Signup</h1></main>; }
